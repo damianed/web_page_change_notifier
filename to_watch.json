@@ -1,0 +1,7 @@
+{
+  "https://www.reddit.com/user/thisisbillgates/": {
+    "selectors": [
+      "shreddit-feed > article > shreddit-feed"
+    ]
+  }
+}
